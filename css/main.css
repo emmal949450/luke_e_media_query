@@ -1,0 +1,13 @@
+@charset "UTF-8" ;
+
+.hidden {
+	display: none;
+}
+
+#siteContainer {
+	margin: 0 auto;
+	width: 641px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #000000;
+}
